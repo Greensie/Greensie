@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on self project including Python and C#<br>🤝 I’m looking for help with getting to now new learning materials<br>🌱 I’m currently learning Pytest<br>
+🔭 I’m currently working on self development making small projects including Python and C#<br>🤝 I’m looking for help with getting to now new learning materials<br>🌱 I’m currently learning Pytest<br>
 
 
 ## 🌐 Socials:
