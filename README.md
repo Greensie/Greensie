@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on self development making small projects using Python<br>🤝 I’m looking for help with getting to now new learning materials<br>🌱 I’m currently learning Pytest, Robot Framework using RIDE and Selenium Library<br>
+🔭 I’m currently working on self development making small projects using Python<br>🤝 I’m looking for help with getting to now new learning materials<br>🌱 I’m currently learning Pytest, Robot Framework using Selenium Library<br>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
