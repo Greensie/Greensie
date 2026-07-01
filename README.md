@@ -3,9 +3,10 @@
 🌱 I’m currently learning Pytest<br>
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 # 📂 Projects:
+-  [**Secret Room Assistant (Lua)**](https://github.com/Greensie/secret_room_assistant) – Mod for the game The Binding of Isaac which help player to find secret rooms! Avalible on [**STEAM**](https://steamcommunity.com/sharedfiles/filedetails/?id=3755814659)
 -  [**Web Testing (Robot Framework)**](https://github.com/Greensie/RobotFrameworkTraining) – simple REST API testing on multiple pages using Robot Framework.
 -  [**Selenium Tests (C# + NUnit)**](https://github.com/Greensie/WebTestingNUnit) – cross-browser automation using Page Object Model.
 -  [**Dexterity Game**](https://github.com/Greensie/DexterityGame) – dexterity game made with PyGame as a univeristy project.
